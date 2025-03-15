@@ -12,18 +12,17 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
 Sitio web para ofrecer servicios, cuenta con login, registro y edicion de perfil de usuarios. Tambien incluye un CRUD de servicios y subida de imagenes con cloudinary. Contiene multiples rutas y filtros de busquedas.
 
 - **Tecnologías:** React, Tailwindcss, Python, Flask, SQLite y cloudinary.
+- **Enlaces:** [Repositorio](https://github.com/RubDev476/General-services) | [Demo](https://g-services.vercel.app/)
 
 ![Vista previa del proyecto](images/g-services.jpg)
 
-[Repositorio](https://github.com/RubDev476/General-services) | [Demo](https://g-services.vercel.app/)
 
 ### 1. **G-Servicios**
 Sitio web para ofrecer servicios, cuenta con login, registro y edicion de perfil de usuarios. Tambien incluye un CRUD de servicios y subida de imagenes con cloudinary. Contiene multiples rutas y filtros de busquedas.
 
 - **Tecnologías:** React, Tailwindcss, Python, Flask, SQLite y cloudinary.
+- **Enlaces:** [Repositorio](https://github.com/RubDev476/General-services) | [Demo](https://g-services.vercel.app/)
 
 ![Vista previa del proyecto](images/g-services.jpg)
-
-[Repositorio](https://github.com/RubDev476/General-services) | [Demo](https://g-services.vercel.app/)
 
 ---
