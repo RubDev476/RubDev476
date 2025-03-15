@@ -12,6 +12,7 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
 - **Descripción:** Un portafolio personal interactivo para mostrar habilidades y proyectos.
 - **Tecnologías:** React, Sass, Framer Motion
 - **Imagen:** 
+<img src="images/g-services.jpg" alt="Vista previa del proyecto" width="200">
 ![Vista previa del portafolio](images/g-services.jpg)
 - **Repositorio:** [Enlace al repositorio](https://github.com/tuusuario/awesome-portfolio)
 - **Demo:** [Enlace al repositorio](https://github.com/tuusuario/awesome-portfolio)
