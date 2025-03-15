@@ -8,16 +8,22 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
 
 ## 💻🚀 **Proyectos destacados**
 
-### 1. **Awesome Portfolio Website**
-- **Descripción:** Un portafolio personal interactivo para mostrar habilidades y proyectos.
-- **Tecnologías:** React, Sass, Framer Motion
-- **Imagen:** 
-<img src="images/g-services.jpg" alt="Vista previa del proyecto" width="200">
-<img src="images/g-services.jpg" alt="Vista previa del proyecto" width="200">
-<img src="images/g-services.jpg" alt="Vista previa del proyecto" width="200">
+### 1. **G-Servicios**
+Sitio web para ofrecer servicios, cuenta con login, registro y edicion de perfil de usuarios. Tambien incluye un CRUD de servicios y subida de imagenes con cloudinary. Contiene multiples rutas y filtros de busquedas.
 
-![Vista previa del portafolio](images/g-services.jpg)
-- **Repositorio:** [Enlace al repositorio](https://github.com/tuusuario/awesome-portfolio)
-- **Demo:** [Enlace al repositorio](https://github.com/tuusuario/awesome-portfolio)
+- **Tecnologías:** React, Tailwindcss, Python, Flask, SQLite y cloudinary.
+
+![Vista previa del proyecto](images/g-services.jpg)
+
+[Repositorio](https://github.com/RubDev476/General-services) | [Demo](https://g-services.vercel.app/)
+
+### 1. **G-Servicios**
+Sitio web para ofrecer servicios, cuenta con login, registro y edicion de perfil de usuarios. Tambien incluye un CRUD de servicios y subida de imagenes con cloudinary. Contiene multiples rutas y filtros de busquedas.
+
+- **Tecnologías:** React, Tailwindcss, Python, Flask, SQLite y cloudinary.
+
+![Vista previa del proyecto](images/g-services.jpg)
+
+[Repositorio](https://github.com/RubDev476/General-services) | [Demo](https://g-services.vercel.app/)
 
 ---
