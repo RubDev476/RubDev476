@@ -17,11 +17,10 @@ Sitio web para ofrecer servicios generales de cualquier tipo.
     - Subida de imagenes.
     - Rutas dinamicas y privadas.
     - Filtro de busqueda de servicios.
-- **Tecnologías:** React, Tailwindcss, Python, Flask, SQLite y cloudinary.
+- **Tecnologías:** React con Next js, Tailwindcss, Python, Flask, SQLite y cloudinary.
 - **Enlaces:** [Repositorio](https://github.com/RubDev476/General-services) | [Demo](https://g-services.vercel.app/)
 
 ![Vista previa del proyecto](images/g-services.jpg)
-
 
 ### 2. **Group-4**
 Clon de reddit para publicar posts con imagen o sin imagen, como una red social moderna, donde la gente puede compartir sus pensamientos e ideas.
@@ -33,9 +32,47 @@ Clon de reddit para publicar posts con imagen o sin imagen, como una red social 
     - Rutas dinamicas y privadas.
     - Lista de usuarios populares (quienes tienen mas likes y comentarios).
     - Lista de actividad reciente (usuarios a quienes le comentaste y le diste like recientemente).
-- **Tecnologías:** React, Material UI, Firebase.
+- **Tecnologías:** React con Next js, Material UI y Firebase.
 - **Enlaces:** [Repositorio](https://github.com/RubDev476/Group-4) | [Demo](https://group-4-rho.vercel.app/)
 
 ![Vista previa del proyecto](images/group-4.jpg)
+
+### 3. **RE-Autos**
+Sitio web para venta de autos. (Diseño inspirado del sitio web **Kavak**)
+
+- **Características**:
+    - API de autos con multiples modelos y marcas.
+    - Barra de busqueda.
+    - Filtros avanzados (Marca, Año, Puertas, Precio, Color, etc.).
+    - Landing Page.
+    - Pruebas unitarias con Vitest y React Testing Library.
+- **Tecnologías:** React con Next js, Sass, Swiper js, Vitest, React Testing Library y Redux Toolkit.
+- **Enlaces:** [Repositorio](https://github.com/RubDev476/RE-Cars) | [Demo](https://re-cars.vercel.app/)
+
+![Vista previa del proyecto](images/re-cars.jpg)
+
+### 4. **Starbucks**
+Clon de starbucks con API de productos.
+
+- **Características**:
+    - API de productos starbucks.
+    - Landing Page.
+    - Multiples categorias y subcategorias para explorar.
+- **Tecnologías:** React con Vite, Sass y MongoDB.
+- **Enlaces:** [Repositorio](https://github.com/RubDev476/starbucks-clone-api) | [Demo](https://starbucks-clone-amber.vercel.app/)
+
+![Vista previa del proyecto](images/starbucks.jpg)
+
+### 5. **Good recipes**
+Sitio web de recetas usando las API's publicas de The CocktailDB y The MealDB. (Diseño inspirado del sitio web **Recetas Nestlé**)
+
+- **Características**:
+    - API's publicas de The CocktailDB y The MealDB.
+    - Landing Page.
+    - Carrusel dinámico que te recomienda recetas dependiendo la hora del dia (Desayuno, Almuerzo, o Cockteles si es de noche).
+- **Tecnologías:** React con Vite, Styled Components y Swiper js.
+- **Enlaces:** [Repositorio](https://github.com/RubDev476/Good-recipes) | [Demo](https://good-recipes-vert.vercel.app/)
+
+![Vista previa del proyecto](images/good-recipes.jpg)
 
 ---
