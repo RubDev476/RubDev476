@@ -6,21 +6,15 @@ Soy un desarrollador frontend apasionado por construir experiencias web modernas
 
 Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y **bases de datos SQL**. Tambien estudio constantemente sobre temas mas teóricos y avanzados sobre el desarrollo de software en general.
 
-### **Habilidades técnicas**
-- **Lenguajes de programación:** 
-    - JavaScript | Typescript | HTML | CSS | Sass 
+**¿Que estas buscando?**
+- [Contactame](#Proyectos-destacados)
+- [Proyectos destacados](#Proyectos-destacados)
+- [Skills](#Habilidades)
 
-- **Frameworks/Bibliotecas:** 
-    - React js | Node js | Redux Tookit | Tailwind CSS | Styled components | Zustand | Vite
+## **Contactame**
 
-- **Pruebas unitarias:** 
-    - React Testing Library | Jest | Vitest
-
-- **Herramientas:** 
-    - VS Code | WebStorm
-
-- **Otros:** 
-    - Responsive Design | Manejo de estado global | Consumo de API's | Conocimientos superficiales de backend y bases de datos Nosql (MongoDB y Firebase).
+- Email: **rubdeveloper476@gmail.com**
+- [Linkedin](https://g-services.vercel.app/)
 
 ## 💻🚀 **Proyectos destacados** (Todos mis proyectos se actualizan y se mejoran constantemente)
 
@@ -90,5 +84,21 @@ Sitio web de recetas usando las API's publicas de The CocktailDB y The MealDB. (
 - **Enlaces:** [Repositorio](https://github.com/RubDev476/Good-recipes) | [Demo](https://good-recipes-vert.vercel.app/)
 
 ![Vista previa del proyecto](images/good-recipes.jpg)
+
+## **Habilidades técnicas**
+- **Lenguajes de programación:** 
+    - JavaScript | Typescript | HTML | CSS | Sass 
+
+- **Frameworks/Bibliotecas:** 
+    - React js | Node js | Redux Tookit | Tailwind CSS | Styled components | Zustand | Vite
+
+- **Pruebas unitarias:** 
+    - React Testing Library | Jest | Vitest
+
+- **Herramientas:** 
+    - VS Code | WebStorm
+
+- **Otros:** 
+    - Responsive Design | Manejo de estado global | Consumo de API's | Conocimientos superficiales de backend y bases de datos Nosql (MongoDB y Firebase).
 
 ---
