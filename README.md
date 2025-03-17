@@ -6,6 +6,35 @@ Soy un desarrollador frontend apasionado por construir experiencias web modernas
 
 Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y **bases de datos SQL**. Tambien estudio constantemente sobre temas mas teóricos y avanzados sobre el desarrollo de software en general.
 
+### **Habilidades técnicas**
+- **Lenguajes de programación:** 
+    - JavaScript
+    - Typescript 
+    - HTML5 
+    - CSS3
+    - Sass
+- **Frameworks/Bibliotecas:** 
+    - React js
+    - Node js
+    - Redux Tookit
+    - Tailwind CSS
+    - Styled components
+    - Zustand
+    - Vite
+- **Pruebas unitarias:** 
+    - React Testing Library
+    - Jest/Vitest
+- **Herramientas:** 
+    - VS Code
+    - WebStorm
+- **Otros:** 
+    - Responsive Design
+    - Manejo de estado global
+    - Context API
+    - Patrones de diseño
+    - Consumo de API's
+    - Conocimientos superficiales de backend y bases de datos Nosql (MongoDB y Firebase).
+
 ## 💻🚀 **Proyectos destacados** (Todos mis proyectos se actualizan y se mejoran constantemente)
 
 ### 1. **G-Servicios**
