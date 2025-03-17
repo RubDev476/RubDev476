@@ -26,7 +26,7 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
     - React Testing Library | Jest | Vitest
 
 - **Herramientas:** 
-    - VS Code | WebStorm | Copilot IA (Microsoft) | Github Copilot
+    - VS Code | WebStorm | Copilot IA (Microsoft) | Github Copilot | Postman
 
 - **Otros:** 
     - Responsive Design | Manejo de estado global | Consumo de APIs | Conocimientos superficiales de backend y bases de datos NoSQL (MongoDB y Firebase).
