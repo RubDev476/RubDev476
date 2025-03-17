@@ -7,9 +7,9 @@ Soy un desarrollador frontend apasionado por construir experiencias web modernas
 Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y **bases de datos SQL**. Tambien estudio constantemente sobre temas mas teóricos y avanzados sobre el desarrollo de software en general.
 
 **¿Que estas buscando?**
-- [Contactame](#Proyectos-destacados)
-- [Proyectos destacados](#Proyectos-destacados)
-- [Skills](#Habilidades)
+- [Contactame](#contactame)
+- [Proyectos destacados](#proyectos-destacados)
+- [Skills](#habilidades-tecnicas)
 
 ## **Contactame**
 
