@@ -7,7 +7,7 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
 
 ## **¿Qué estás buscando?**
 - [**Habilidades técnicas**](#habilidades-técnicas)
-- [**Información de contacto**](#contactame)
+- [**Información de contacto**](#contáctame)
 - [**Proyectos destacados**](#-proyectos-destacados-todos-mis-proyectos-se-actualizan-y-se-mejoran-constantemente)
     - [**G-Servicios**](#1-g-servicios)
     - [**Group-4**](#2-group-4)
