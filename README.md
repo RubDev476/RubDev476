@@ -1,21 +1,25 @@
 # Hola, mi nombre es Rubén
 
----
 ## **¿Quién soy?**
 Soy un desarrollador frontend apasionado por construir experiencias web modernas, rápidas y funcionales utilizando **React** como herramienta principal. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, colaborar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
 
 Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y **bases de datos SQL**. Tambien estudio constantemente sobre temas mas teóricos y avanzados sobre el desarrollo de software en general.
 
-**¿Que estas buscando?**
-- [Contactame](#contactame)
-- [Proyectos destacados](#-proyectos-destacados-todos-mis-proyectos-se-actualizan-y-se-mejoran-constantemente)
-- [Skills](#habilidades-técnicas)
+## **¿Que estas buscando?**
+- [**Informacion de contacto**](#contactame)
+- [**Proyectos destacados**](#-proyectos-destacados-todos-mis-proyectos-se-actualizan-y-se-mejoran-constantemente)
+    - [**G-Servicios**](#1-g-servicios)
+    - [**Group-4**](#2-group-4)
+    - [**RE-Autos**](#3-re-autos)
+    - [**Starbucks**](#4-starbucks)
+    - [**Good Recipes**](#5-good-recipes)
+- [**Habilidades técnicas**](#habilidades-técnicas)
 
 ## **Contactame**
 
 - Email: **rubdeveloper476@gmail.com**
-- [Linkedin](https://www.linkedin.com/in/rubdev476/)
-- Discord username: RubDev666
+- [**Linkedin**](https://www.linkedin.com/in/rubdev476/)
+- Discord username: **RubDev666**
 
 ## 💻🚀 **Proyectos destacados** (Todos mis proyectos se actualizan y se mejoran constantemente)
 
@@ -101,5 +105,3 @@ Sitio web de recetas usando las API's publicas de The CocktailDB y The MealDB. (
 
 - **Otros:** 
     - Responsive Design | Manejo de estado global | Consumo de API's | Conocimientos superficiales de backend y bases de datos Nosql (MongoDB y Firebase).
-
----
