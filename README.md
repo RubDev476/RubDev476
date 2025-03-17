@@ -8,13 +8,14 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
 
 **¿Que estas buscando?**
 - [Contactame](#contactame)
-- [Proyectos destacados](#proyectos-destacados)
-- [Skills](#habilidades-tecnicas)
+- [Proyectos destacados](#-proyectos-destacados-todos-mis-proyectos-se-actualizan-y-se-mejoran-constantemente)
+- [Skills](#habilidades-técnicas)
 
 ## **Contactame**
 
 - Email: **rubdeveloper476@gmail.com**
-- [Linkedin](https://g-services.vercel.app/)
+- [Linkedin](https://www.linkedin.com/in/rubdev476/)
+- Discord username: RubDev666
 
 ## 💻🚀 **Proyectos destacados** (Todos mis proyectos se actualizan y se mejoran constantemente)
 
