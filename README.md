@@ -8,19 +8,19 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
 
 ### **Habilidades técnicas**
 - **Lenguajes de programación:** 
-    - **JavaScript | Typescript | HTML | CSS | Sass** 
+    - JavaScript | Typescript | HTML | CSS | Sass 
 
 - **Frameworks/Bibliotecas:** 
-    - **React js | Node js | Redux Tookit | Tailwind CSS | Styled components | Zustand | Vite**
+    - React js | Node js | Redux Tookit | Tailwind CSS | Styled components | Zustand | Vite
 
 - **Pruebas unitarias:** 
-    - **React Testing Library | Jest | Vitest**
+    - React Testing Library | Jest | Vitest
 
 - **Herramientas:** 
-    - **VS Code | WebStorm**
+    - VS Code | WebStorm
 
 - **Otros:** 
-    - **Responsive Design | Manejo de estado global | Consumo de API's | Conocimientos superficiales de backend y bases de datos Nosql (MongoDB y Firebase).**
+    - Responsive Design | Manejo de estado global | Consumo de API's | Conocimientos superficiales de backend y bases de datos Nosql (MongoDB y Firebase).
 
 ## 💻🚀 **Proyectos destacados** (Todos mis proyectos se actualizan y se mejoran constantemente)
 
