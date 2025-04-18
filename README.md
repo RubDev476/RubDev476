@@ -48,7 +48,8 @@ Sitio web para ofrecer servicios generales de cualquier tipo.
     - Subida de imágenes.
     - Rutas dinámicas y privadas.
     - Filtro de búsqueda de servicios.
-- **Tecnologías:** React con Next js, TailwindCSS, Python, Flask, SQLite y Cloudinary.
+    - Pruebas unitarias
+- **Tecnologías:** React con Next js, TailwindCSS, Vitest, React Testing Library, Python, Flask, SQLite y Cloudinary.
 - **Enlaces:** [**Repositorio**](https://github.com/RubDev476/General-services) | [**Demo**](https://g-services.vercel.app/)
 
 ![Vista previa del proyecto](images/g-services.jpg)
