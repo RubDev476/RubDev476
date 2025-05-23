@@ -90,7 +90,8 @@ Clon de Starbucks con API de productos.
     - API de productos Starbucks.
     - Landing Page.
     - Múltiples categorías y subcategorías para explorar.
-- **Tecnologías:** React con Vite, Sass y MongoDB.
+    - Mas de 240 productos.
+- **Tecnologías:** React con Vite, Sass, Swagger y Postgresql alojado en Supabase (incluye una rama con MongoDB).
 - **Enlaces:** [**Repositorio**](https://github.com/RubDev476/starbucks-clone-api) | [**Demo**](https://starbucks-clone-amber.vercel.app/)
 
 ![Vista previa del proyecto](images/starbucks.jpg)
