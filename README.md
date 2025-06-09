@@ -1,9 +1,9 @@
 # Hola, te doy la bienvenida, mi nombre es Rubén
 
 ## **¿Quién soy?**
-Soy un desarrollador frontend apasionado por construir experiencias web modernas, rápidas y funcionales utilizando **React** como herramienta principal. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, trabajar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
+Soy un desarrollador full stack apasionado por construir experiencias web modernas, rápidas y funcionales utilizando **React** y **Node js** como herramientas principales. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, trabajar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
 
-Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y **bases de datos SQL**. También estudio constantemente sobre temas más teóricos y avanzados relacionados con el desarrollo de software en general.
+Actualmente estoy estudiando **Java** con **Spring Boot**. También estudio constantemente sobre temas más teóricos y avanzados relacionados con el desarrollo de software en general cada dia.
 
 ## **¿Qué estás buscando?**
 - [**Habilidades técnicas**](#habilidades-técnicas)
@@ -16,20 +16,15 @@ Actualmente estoy estudiando **desarrollo backend** a profundidad con **Java** y
     - [**Good Recipes**](#5-good-recipes)
 
 ## **Habilidades técnicas**
-- **Lenguajes de programación:** 
-    - JavaScript | TypeScript | HTML | CSS | Sass 
-
-- **Frameworks/Bibliotecas:** 
-    - React js | Node js | Redux Toolkit | Tailwind CSS | Styled components | Zustand | Vite
-
-- **Pruebas unitarias:** 
-    - React Testing Library | Jest | Vitest
-
-- **Herramientas:** 
-    - VS Code | WebStorm | Copilot IA (Microsoft) | Github Copilot | Postman
-
-- **Otros:** 
-    - Responsive Design | Manejo de estado global | Consumo de APIs | Conocimientos superficiales de backend y bases de datos NoSQL (MongoDB y Firebase).
+- **Nivel de ingles**: B1 
+- **Lenguajes**: Javascript | Typescript | Java | SQL 
+- **Bases de datos**: Mysql | Postgresql | MongoDB | Firebase 
+- **ORM’s:** TypeORM | Sequelize | Mongoose 
+- **Backend**: Node js | Express | Swagger | JWT | OAuth 2.0 | Apollo GraphQL 
+- **Frontend**: React | Next js | Redux toolkit | Sass | Tailwindcss | Styled Components 
+- **Testing**: Jest | React testing library | Vitest 
+- **Herramientas**: Git | Github | Postman | Vercel | Render | Supabase 
+- **IDE’s**: VSCode | WebStorm | IntelliJ 
 
 ## **Contáctame**
 
