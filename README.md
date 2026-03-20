@@ -1,9 +1,9 @@
 # Hola, te doy la bienvenida, mi nombre es Rubén
 
 ## **¿Quién soy?**
-Soy un desarrollador full stack apasionado por construir experiencias web modernas, rápidas y funcionales utilizando **React** y **Node js** como herramientas principales. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, trabajar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
+Soy un desarrollador full stack apasionado por construir experiencias web modernas, rápidas y funcionales utilizando el ecosistema de **React** y **Node js** como herramientas principales. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, trabajar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
 
-Actualmente estoy estudiando **Java** con **Spring Boot**. También estudio constantemente sobre temas más teóricos y avanzados relacionados con el desarrollo de software en general cada dia.
+También estudio constantemente sobre temas más teóricos y avanzados relacionados con el desarrollo de software en general cada dia y tengo un gran interes por el mundo del **Analisis de datos**.
 
 ## **¿Qué estás buscando?**
 - [**Habilidades técnicas**](#habilidades-técnicas)
@@ -17,20 +17,19 @@ Actualmente estoy estudiando **Java** con **Spring Boot**. También estudio cons
 
 ## **Habilidades técnicas**
 - **Nivel de ingles**: B1 
-- **Lenguajes**: Javascript | Typescript | Java | SQL 
-- **Bases de datos**: Mysql | Postgresql | MongoDB | Firebase 
-- **ORM’s:** TypeORM | Sequelize | Mongoose 
-- **Backend**: Node js | Express | Swagger | JWT | OAuth 2.0 | Apollo GraphQL 
+- **Lenguajes**:  Javascript/Typescript | Java | SQL 
+- **Bases de datos**: Mysql | MongoDB | Firebase | SQL Server
+- **ORM’s:** TypeORM | Sequelize | Mongoose | Hibernate 
+- **Backend**: Node js | Express | Swagger | JWT | OAuth 2.0 | Spring Boot |  Nest Js 
 - **Frontend**: React | Next js | Redux toolkit | Sass | Tailwindcss | Styled Components 
 - **Testing**: Jest | React testing library | Vitest 
-- **Herramientas**: Git | Github | Postman | Vercel | Render | Supabase 
+- **Herramientas**: Git | Github | Postman | Vercel | Render | Supabase | Docker 
 - **IDE’s**: VSCode | WebStorm | IntelliJ 
 
 ## **Contáctame**
 
 - Email: **rubdeveloper476@gmail.com**
 - [**LinkedIn**](https://www.linkedin.com/in/rubdev476/)
-- Discord username: **Rubdev666**
 
 ## 💻🚀 **Proyectos destacados** (Todos mis proyectos se actualizan y se mejoran constantemente)
 
