@@ -1,3 +1,5 @@
+![Vista previa del proyecto](images/starbucks.jpg)
+
 # Hola, te doy la bienvenida, mi nombre es Rubén
 
 ## **¿Quién soy?**
