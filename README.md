@@ -1,4 +1,4 @@
-![Vista previa del proyecto](images/starbucks.jpg)
+![Vista previa del proyecto](images/banner.png)
 
 # Hola, te doy la bienvenida, mi nombre es Rubén
 
