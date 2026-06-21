@@ -1,11 +1,11 @@
 ![Vista previa del proyecto](images/banner.png)
 
-# Hola, te doy la bienvenida, mi nombre es Rubén
+## **Hola, te doy la bienvenida, mi nombre es Rubén**
+Soy un desarrollador react frontend certificado por Meta y desarrollador backend apasionado por construir experiencias web modernas, rápidas y funcionales utilizando el ecosistema de **React** y **Node js** como herramientas principales. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, trabajar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
 
-## **¿Quién soy?**
-Soy un desarrollador full stack apasionado por construir experiencias web modernas, rápidas y funcionales utilizando el ecosistema de **React** y **Node js** como herramientas principales. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, trabajar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
+4 años de experiencia como **Frontend React Developer** y 3 años de experiencia como **Backend Developer** con lenguajes como **Java con Spring Boot**, **Javascript/Typescript con Nest js y Express** y manejo de bases de datps **SQL con Sql Server y Mysql**. 
 
-También estudio constantemente sobre temas más teóricos y avanzados relacionados con el desarrollo de software en general cada dia y tengo un gran interes por el mundo del **Analisis de datos**.
+También estudio constantemente sobre temas más teóricos y avanzados relacionados con el desarrollo de software en general cada dia y tengo un gran interes por el mundo del **Analisis de datos** y la **Ciencia de datos**. 
 
 ## **¿Qué estás buscando?**
 - [**Habilidades técnicas**](#habilidades-técnicas)
