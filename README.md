@@ -18,15 +18,14 @@ También estudio constantemente sobre temas más teóricos y avanzados relaciona
     - [**Good Recipes**](#5-good-recipes)
 
 ## **Habilidades técnicas**
-- **Nivel de ingles**: B1 
-- **Lenguajes**:  Javascript/Typescript | Java | SQL 
-- **Bases de datos**: Mysql | MongoDB | Firebase | SQL Server
-- **ORM’s:** TypeORM | Sequelize | Mongoose | Hibernate 
-- **Backend**: Node js | Express | Swagger | JWT | OAuth 2.0 | Spring Boot |  Nest Js 
-- **Frontend**: React | Next js | Redux toolkit | Sass | Tailwindcss | Styled Components 
-- **Testing**: Jest | React testing library | Vitest 
-- **Herramientas**: Git | Github | Postman | Vercel | Render | Supabase | Docker 
-- **IDE’s**: VSCode | WebStorm | IntelliJ 
+- **Nivel de ingles**: B2
+- **JavaScript - TypeScript**: Node Js - React  - Next Js - Nest Js - Express - Eslint  CSS: TailwindCSS - Sass - Styled Components - Bootstrap  
+- **SQL - NoSql**: Mysql - SQL Server - MongoDB - Firebase
+- **Java**: Spring Boot - Spring Security - Hibernate - JPA - Lombok - Spring Web  
+- **Testing**: Jest - React testing library - Vitest
+- **Frontend**: Redux -  Context API - Custom Hooks - Zustand
+- **Backend**: JWT - OAuth 2.0 - Rest API - MVC - Microservicios
+- **Herramientas**: Git - Github - Docker
 
 ## **Contáctame**
 
