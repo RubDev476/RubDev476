@@ -1,8 +1,5 @@
 ![Vista previa del proyecto](images/small-banner.png)
 
-## 👋 Hola, soy Rubén
-Desarrollador Full Stack | React Frontend (certificado por Meta) | Backend con Node.js y Java Spring Boot
-
 Soy un desarrollador full stack con mas 4 años de experiencia en frontend y backend.  
 Mi certificación profesional en **React (Meta)** y experiencia desarrollando proyectos freelancer respalda mi dominio en desarrollo frontend, mientras que mi experiencia laboral en **SQL Server, MySQL y NestJS** garantiza soluciones en el backend, además de contar con solidos conocimientos en **Java con Spring Boot**.
 
