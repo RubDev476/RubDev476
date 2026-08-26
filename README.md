@@ -1,104 +1,54 @@
-![Vista previa del proyecto](images/banner.png)
+![Vista previa del proyecto](images/small-banner.png)
 
-## **Hola, te doy la bienvenida, mi nombre es Rubén**
-Soy un desarrollador react frontend certificado por Meta y desarrollador backend apasionado por construir experiencias web modernas, rápidas y funcionales utilizando el ecosistema de **React** y **Node js** como herramientas principales. Me encanta aprender nuevas tecnologías, colaborar en proyectos emocionantes, trabajar con otros desarrolladores y afrontar retos y soluciones que me permitan crecer profesionalmente.
+## 👋 Hola, soy Rubén
+Desarrollador Full Stack | React Frontend (certificado por Meta) | Backend con Node.js y Java Spring Boot
 
-4 años de experiencia como **Frontend React Developer** y 3 años de experiencia como **Backend Developer** con lenguajes como **Java con Spring Boot**, **Javascript/Typescript con Nest js y Express** y manejo de bases de datps **SQL con Sql Server y Mysql**. 
+Soy un desarrollador full stack con mas 4 años de experiencia en frontend y backend.  
+Mi certificación profesional en **React (Meta)** y experiencia desarrollando proyectos freelancer respalda mi dominio en desarrollo frontend, mientras que mi experiencia laboral en **SQL Server, MySQL y NestJS** garantiza soluciones en el backend, además de contar con solidos conocimientos en **Java con Spring Boot**.
 
-También estudio constantemente sobre temas más teóricos y avanzados relacionados con el desarrollo de software en general cada dia y tengo un gran interes por el mundo del **Analisis de datos** y la **Ciencia de datos**. 
+## 💻🚀 **Proyectos destacados**
+- 1. **Good Recipes: ** [**Repositorio**](https://github.com/RubDev476/Good-recipes) | [**Demo**](https://good-recipes-vert.vercel.app/)
+- 2. **G-Servicios: ** [**Repositorio**](https://github.com/RubDev476/General-services) | [**Demo**](https://g-services.vercel.app/)
+- 3. **Group-4: ** [**Repositorio**](https://github.com/RubDev476/Group-4) | [**Demo**](https://group-4-rho.vercel.app/)
+- 4. **RE-Autos: ** [**Repositorio**](https://github.com/RubDev476/RE-Cars) | [**Demo**](https://re-cars.vercel.app/)
 
-## **¿Qué estás buscando?**
-- [**Habilidades técnicas**](#habilidades-técnicas)
-- [**Información de contacto**](#contáctame)
-- [**Proyectos destacados**](#-proyectos-destacados-todos-mis-proyectos-se-actualizan-y-se-mejoran-constantemente)
-    - [**G-Servicios**](#1-g-servicios)
-    - [**Group-4**](#2-group-4)
-    - [**RE-Autos**](#3-re-autos)
-    - [**Starbucks**](#4-starbucks)
-    - [**Good Recipes**](#5-good-recipes)
-
-## **Habilidades técnicas**
+## 🛠️ **Stack y resumen de habilidades:**
 - **Nivel de ingles**: B2
-- **JavaScript - TypeScript**: Node Js - React  - Next Js - Nest Js - Express - Eslint  CSS: TailwindCSS - Sass - Styled Components - Bootstrap  
-- **SQL - NoSql**: Mysql - SQL Server - MongoDB - Firebase
-- **Java**: Spring Boot - Spring Security - Hibernate - JPA - Lombok - Spring Web  
-- **Testing**: Jest - React testing library - Vitest
-- **Frontend**: Redux -  Context API - Custom Hooks - Zustand
-- **Backend**: JWT - OAuth 2.0 - Rest API - MVC - Microservicios
-- **Herramientas**: Git - Github - Docker
+- **JavaScript - TypeScript**: Node Js | React | Next Js | Nest Js | Express | Eslint
+- **CSS**: TailwindCSS | Sass | Styled Components | Bootstrap  
+- **SQL - NoSql**: Mysql | SQL Server | MongoDB | Firebase
+- **Java**: Spring Boot | Spring Security | Hibernate | JPA | Lombok | Spring Web  
+- **Testing**: Jest | React testing library | Vitest
+- **Frontend**: Redux | Context API | Custom Hooks | Zustand
+- **Backend**: JWT | OAuth 2.0 | Rest API | MVC | Microservicios
+- **Herramientas**: Git | Github | Docker | Figma | VSCode | WebStorm | IntelliJ | Microsoft Copilot
 
-## **Contáctame**
+## 🛠️ **Frontend:**
+- **Maquetado y diseño responsivo con Flexbox y CSS Grid.**
+- **Conocimiento sobre Figma para prototipado y mockups**
+- **Experiencia con librerías y frameworks CSS: TailwindCSS, Material UI, Bootstrap, Sass, Styled Components.**
+- **Desarrollo de interfaces modernas con React y Next.js y Vite, optimizadas para rendimiento, accesibilidad y SEO.**
+- **Implementación de Redux, Context API, Zustand y Custom Hooks para gestión de estado global.**
+- **Metodología "Mobile First"**
+- **Uso de herramienta Lighthouse para monitoreo de rendimiento, accesibilidad y SEO**
+- **Html semántico y metadatos para mejorar la accesibilidad y SEO**
 
-- Email: **rubdeveloper476@gmail.com**
-- [**LinkedIn**](https://www.linkedin.com/in/rubdev476/)
+## ⚙️ **Backend:**
+- **Creación de APis RESTful. (CRUD, Endpoints)**
+- **Documentación de APIs con Swagger y Postman.**
+- **Implementación de autenticaciones seguras con OAuth 2.0 y JWT.**
+- **Uso del patrón MVC y conocimientos en microservicios**
+- **Experiencia con NestJS, Express y Java Spring Boot para servicios escalables.**
+- **Uso de Orms como Sequelize Y TypeOrm**
+- **Uso de almacenamiento multimedia en la nube con Cloudinary y Firebase**
 
-## 💻🚀 **Proyectos destacados** (Todos mis proyectos se actualizan y se mejoran constantemente)
+## 🗄️ **Bases de Datos:**
+- **Diseño y normalización de tablas.**
+- **Consultas avanzadas con JOINS, CTEs, subqueries.**
+- **Creación y optimización de Stored Procedures y Views**
+- **Manejo de SQL Server, MySQL, MongoDB y Firebase.**
+- **Optimización de queries para alto rendimiento en sistemas de producción.**
 
-### 1. **G-Servicios**
-Sitio web para ofrecer servicios generales de cualquier tipo.
-
-- **Características**:
-    - Login, registro y edición de perfil de usuarios.
-    - CRUD de servicios.
-    - Subida de imágenes.
-    - Rutas dinámicas y privadas.
-    - Filtro de búsqueda de servicios.
-    - Pruebas unitarias
-- **Tecnologías:** React con Next js, TailwindCSS, Vitest, React Testing Library, Python, Flask, SQLite y Cloudinary.
-- **Enlaces:** [**Repositorio**](https://github.com/RubDev476/General-services) | [**Demo**](https://g-services.vercel.app/)
-
-![Vista previa del proyecto](images/g-services.jpg)
-
-### 2. **Group-4**
-Clon de Reddit para publicar posts con imagen o sin imagen, como una red social moderna, donde la gente puede compartir sus pensamientos e ideas.
-
-- **Características**:
-    - Login, registro y edición de perfil de usuarios.
-    - CRUD de publicaciones.
-    - Subida de imágenes.
-    - Rutas dinámicas y privadas.
-    - Lista de usuarios populares (quienes tienen más likes y comentarios).
-    - Lista de actividad reciente (usuarios a quienes les comentaste y les diste like recientemente).
-- **Tecnologías:** React con Next js, Material UI y Firebase.
-- **Enlaces:** [**Repositorio**](https://github.com/RubDev476/Group-4) | [**Demo**](https://group-4-rho.vercel.app/)
-
-![Vista previa del proyecto](images/group-4.jpg)
-
-### 3. **RE-Autos**
-Sitio web para venta de autos. (Diseño inspirado en el sitio web **Kavak**)
-
-- **Características**:
-    - API de autos con múltiples modelos y marcas.
-    - Barra de búsqueda.
-    - Filtros avanzados (Marca, Año, Puertas, Precio, Color, etc.).
-    - Landing Page.
-    - Pruebas unitarias con Vitest y React Testing Library.
-- **Tecnologías:** React con Next js, Sass, Swiper js, Vitest, React Testing Library y Redux Toolkit.
-- **Enlaces:** [**Repositorio**](https://github.com/RubDev476/RE-Cars) | [**Demo**](https://re-cars.vercel.app/)
-
-![Vista previa del proyecto](images/re-cars.jpg)
-
-### 4. **Starbucks**
-Clon de Starbucks con API de productos.
-
-- **Características**:
-    - API de productos Starbucks.
-    - Landing Page.
-    - Múltiples categorías y subcategorías para explorar.
-    - Mas de 240 productos.
-- **Tecnologías:** React con Vite, Sass, Swagger y Postgresql alojado en Supabase (incluye una rama con MongoDB).
-- **Enlaces:** [**Repositorio**](https://github.com/RubDev476/starbucks-clone-api) | [**Demo**](https://starbucks-clone-amber.vercel.app/)
-
-![Vista previa del proyecto](images/starbucks.jpg)
-
-### 5. **Good recipes**
-Sitio web de recetas usando las APIs públicas de The CocktailDB y The MealDB. (Diseño inspirado en el sitio web **Recetas Nestlé**)
-
-- **Características**:
-    - APIs públicas de The CocktailDB y The MealDB.
-    - Landing Page.
-    - Carrusel dinámico que te recomienda recetas dependiendo de la hora del día (Desayuno, Almuerzo o Cócteles si es de noche).
-- **Tecnologías:** React con Vite, Styled Components y Swiper js.
-- **Enlaces:** [**Repositorio**](https://github.com/RubDev476/Good-recipes) | [**Demo**](https://good-recipes-vert.vercel.app/)
-
-![Vista previa del proyecto](images/good-recipes.jpg)
+## 📬 Contáctame
+- ✉️ Email: [rubdeveloper476@gmail.com](mailto:rubdeveloper476@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rubdev476](https://www.linkedin.com/in/rubdev476/)  
