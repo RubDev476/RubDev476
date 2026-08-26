@@ -1,6 +1,6 @@
 ![Vista previa del proyecto](images/small-banner.png)
 
-Soy un desarrollador full stack con mas 4 años de experiencia en frontend y backend.  
+Soy un desarrollador full stack con mas de 4 años de experiencia en frontend y backend.  
 Mi certificación profesional en **React (Meta)** y experiencia desarrollando proyectos freelancer respalda mi dominio en desarrollo frontend, mientras que mi experiencia laboral en **SQL Server, MySQL y NestJS** garantiza soluciones en el backend, además de contar con solidos conocimientos en **Java con Spring Boot**.
 
 ## 💻🚀 **Proyectos destacados**
