@@ -4,10 +4,10 @@ Soy un desarrollador full stack con mas de 4 años de experiencia en frontend y 
 Mi certificación profesional en **React (Meta)** y experiencia desarrollando proyectos freelancer respalda mi dominio en desarrollo frontend, mientras que mi experiencia laboral en **SQL Server, MySQL y NestJS** garantiza soluciones en el backend, además de contar con solidos conocimientos en **Java con Spring Boot**.
 
 ## 💻🚀 **Proyectos destacados**
-- **Good Recipes:** [**Repositorio**](https://github.com/RubDev476/Good-recipes) | [**Demo**](https://good-recipes-vert.vercel.app/)
-- **G-Servicios:** [**Repositorio**](https://github.com/RubDev476/General-services) | [**Demo**](https://g-services.vercel.app/)
-- **Group-4:** [**Repositorio**](https://github.com/RubDev476/Group-4) | [**Demo**](https://group-4-rho.vercel.app/)
-- **RE-Autos:** [**Repositorio**](https://github.com/RubDev476/RE-Cars) | [**Demo**](https://re-cars.vercel.app/)
+- **Good Recipes (Sitio web de recetas):** [**Repositorio**](https://github.com/RubDev476/Good-recipes) | [**Demo**](https://good-recipes-vert.vercel.app/)
+- **G-Servicios (Sitio web de servicios generales):** [**Repositorio**](https://github.com/RubDev476/General-services) | [**Demo**](https://g-services.vercel.app/)
+- **Group-4 (Red social estilo Reddit):** [**Repositorio**](https://github.com/RubDev476/Group-4) | [**Demo**](https://group-4-rho.vercel.app/)
+- **RE-Autos (Sitio web de venta de autos seminuevos):** [**Repositorio**](https://github.com/RubDev476/RE-Cars) | [**Demo**](https://re-cars.vercel.app/)
 
 ## 🛠️ **Stack y resumen de habilidades:**
 - **Nivel de ingles**: B2
