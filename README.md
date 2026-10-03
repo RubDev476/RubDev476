@@ -8,7 +8,7 @@ Mi certificación profesional en **React (Meta)** y experiencia desarrollando pr
 - **G-Servicios (Sitio web de servicios generales):** [**Repositorio**](https://github.com/RubDev476/General-services) | [**Demo**](https://g-services.vercel.app/)
 - **Group-4 (Red social estilo Reddit):** [**Repositorio**](https://github.com/RubDev476/Group-4) | [**Demo**](https://group-4-rho.vercel.app/)
 - **RE-Autos (Sitio web de venta de autos seminuevos):** [**Repositorio**](https://github.com/RubDev476/RE-Cars) | [**Demo**](https://re-cars.vercel.app/)
-- - **Next Ride - API (Catálogo de autos para sitio web de venta de autos):** [**Repositorio**](https://github.com/RubDev476/NextRide-API)
+- **Next Ride - API (Catálogo de autos para sitio web de venta de autos):** [**Repositorio**](https://github.com/RubDev476/NextRide-API)
 
 ## 🛠️ **Stack y resumen de habilidades:**
 - **Nivel de ingles**: B2
