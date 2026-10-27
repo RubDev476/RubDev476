@@ -1,7 +1,7 @@
 ![Vista previa del proyecto](images/small-banner.png)
 
 Soy un desarrollador full stack con mas de 4 años de experiencia en frontend y backend.  
-Mi certificación profesional en **React (Meta)** y experiencia desarrollando proyectos freelancer respalda mi dominio en desarrollo frontend, mientras que mi experiencia laboral en **SQL Server, MySQL y NestJS** garantiza soluciones en el backend, además de contar con solidos conocimientos en **Java con Spring Boot**.
+Mi certificación profesional en **React (Meta)** y experiencia desarrollando proyectos freelancer respalda mi dominio en desarrollo frontend, mientras que mi experiencia laboral en **SQL Server, NestJS y Spring Boot** garantiza soluciones en el backend.
 
 ## 💻🚀 **Proyectos destacados**
 - **Good Recipes (Sitio web de recetas):** [**Repositorio**](https://github.com/RubDev476/Good-recipes) | [**Demo**](https://good-recipes-vert.vercel.app/)
@@ -12,14 +12,15 @@ Mi certificación profesional en **React (Meta)** y experiencia desarrollando pr
 
 ## 🛠️ **Stack y resumen de habilidades:**
 - **Nivel de ingles**: B2
-- **JavaScript - TypeScript**: Node Js | React | Next Js | Nest Js | Express | Eslint
-- **CSS**: TailwindCSS | Sass | Styled Components | Bootstrap  
+- **JavaScript - TypeScript**: Node Js | React | Next Js | Nest Js | Express
+- **CSS**: TailwindCSS | Sass | Styled Components | Bootstrap | Material UI
 - **SQL - NoSql**: Mysql | SQL Server | MongoDB | Firebase
-- **Java**: Spring Boot | Spring Security | Hibernate | JPA | Lombok | Spring Web  
-- **Testing**: Jest | React testing library | Vitest
+- **Java**: Spring Boot | Spring Security | Hibernate | JPA | Lombok | Spring Web | JDBC
+- **Testing**: Jest | React testing library | Vitest | JUnit | Mockito
 - **Frontend**: Redux | Context API | Custom Hooks | Zustand
-- **Backend**: JWT | OAuth 2.0 | Rest API | MVC | Microservicios
+- **Backend**: JWT | OAuth 2.0 | Rest API | MVC | Microservicios | DTO
 - **Herramientas**: Git | Github | Docker | Figma | VSCode | WebStorm | IntelliJ | Microsoft Copilot
+- **Arquitecturas y Principios**: SOLID | ACID | Clean Code | POO | DRY | KISS
 
 ## 🛠️ **Frontend:**
 - **Maquetado y diseño responsivo con Flexbox y CSS Grid.**
@@ -37,7 +38,6 @@ Mi certificación profesional en **React (Meta)** y experiencia desarrollando pr
 - **Implementación de autenticaciones seguras con OAuth 2.0 y JWT.**
 - **Uso del patrón MVC y conocimientos en microservicios**
 - **Experiencia con NestJS, Express y Java Spring Boot para servicios escalables.**
-- **Uso de Orms como Sequelize Y TypeOrm**
 - **Uso de almacenamiento multimedia en la nube con Cloudinary y Firebase**
 
 ## 🗄️ **Bases de Datos:**
@@ -46,6 +46,7 @@ Mi certificación profesional en **React (Meta)** y experiencia desarrollando pr
 - **Creación y optimización de Stored Procedures y Views**
 - **Manejo de SQL Server, MySQL, MongoDB y Firebase.**
 - **Optimización de queries para alto rendimiento en sistemas de producción.**
+- **Principio ACID y transacciónes**
 
 ## 📬 Contáctame
 - ✉️ Email: [rubdeveloper476@gmail.com](mailto:rubdeveloper476@gmail.com)  
