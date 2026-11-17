@@ -1,53 +1,89 @@
-![Vista previa del proyecto](images/small-banner.png)
+<div align="center">
 
-Soy un desarrollador full stack con mas de 4 años de experiencia en frontend y backend.  
-Mi certificación profesional en **React (Meta)** y experiencia desarrollando proyectos freelancer respalda mi dominio en desarrollo frontend, mientras que mi experiencia laboral en **SQL Server, NestJS y Spring Boot** garantiza soluciones en el backend.
+  <img src="images/small-banner.png" alt="Banner RubDev476" width="100%" />
 
-## 💻🚀 **Proyectos destacados**
-- **Good Recipes (Sitio web de recetas):** [**Repositorio**](https://github.com/RubDev476/Good-recipes) | [**Demo**](https://good-recipes-vert.vercel.app/)
-- **G-Servicios (Sitio web de servicios generales):** [**Repositorio**](https://github.com/RubDev476/General-services) | [**Demo**](https://g-services.vercel.app/)
-- **Group-4 (Red social estilo Reddit):** [**Repositorio**](https://github.com/RubDev476/Group-4) | [**Demo**](https://group-4-rho.vercel.app/)
-- **RE-Autos (Sitio web de venta de autos seminuevos):** [**Repositorio**](https://github.com/RubDev476/RE-Cars) | [**Demo**](https://re-cars.vercel.app/)
-- **Next Ride - API (Catálogo de autos para sitio web de venta de autos):** [**Repositorio**](https://github.com/RubDev476/NextRide-API)
+  # Rubén | Full Stack Developer
+  **Desarrollo Frontend, Backend Empresarial e Integración de IA con Google Antigravity**
 
-## 🛠️ **Stack y resumen de habilidades:**
-- **Nivel de ingles**: B2
-- **JavaScript - TypeScript**: Node Js | React | Next Js | Nest Js | Express
-- **CSS**: TailwindCSS | Sass | Styled Components | Bootstrap | Material UI
-- **SQL - NoSql**: Mysql | SQL Server | MongoDB | Firebase
-- **Java**: Spring Boot | Spring Security | Hibernate | JPA | Lombok | Spring Web | JDBC
-- **Testing**: Jest | React testing library | Vitest | JUnit | Mockito
-- **Frontend**: Redux | Context API | Custom Hooks | Zustand
-- **Backend**: JWT | OAuth 2.0 | Rest API | MVC | Microservicios | DTO
-- **Herramientas**: Git | Github | Docker | Figma | VSCode | WebStorm | IntelliJ | Microsoft Copilot
-- **Arquitecturas y Principios**: SOLID | ACID | Clean Code | POO | DRY | KISS
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rubdev476/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:rubdeveloper476@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/English-B2_Professional-2ea44f?style=flat-square&logo=google-translate&logoColor=white" alt="English B2" />
+    <img src="https://img.shields.io/badge/Meta_Certified-React_Developer-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Certified" />
+  </p>
 
-## 🛠️ **Frontend:**
-- **Maquetado y diseño responsivo con Flexbox y CSS Grid.**
-- **Conocimiento sobre Figma para prototipado y mockups**
-- **Experiencia con librerías y frameworks CSS: TailwindCSS, Material UI, Bootstrap, Sass, Styled Components.**
-- **Desarrollo de interfaces modernas con React y Next.js y Vite, optimizadas para rendimiento, accesibilidad y SEO.**
-- **Implementación de Redux, Context API, Zustand y Custom Hooks para gestión de estado global.**
-- **Metodología "Mobile First"**
-- **Uso de herramienta Lighthouse para monitoreo de rendimiento, accesibilidad y SEO**
-- **Html semántico y metadatos para mejorar la accesibilidad y SEO**
+</div>
 
-## ⚙️ **Backend:**
-- **Creación de APis RESTful. (CRUD, Endpoints)**
-- **Documentación de APIs con Swagger y Postman.**
-- **Implementación de autenticaciones seguras con OAuth 2.0 y JWT.**
-- **Uso del patrón MVC y conocimientos en microservicios**
-- **Experiencia con NestJS, Express y Java Spring Boot para servicios escalables.**
-- **Uso de almacenamiento multimedia en la nube con Cloudinary y Firebase**
+---
 
-## 🗄️ **Bases de Datos:**
-- **Diseño y normalización de tablas.**
-- **Consultas avanzadas con JOINS, CTEs, subqueries.**
-- **Creación y optimización de Stored Procedures y Views**
-- **Manejo de SQL Server, MySQL, MongoDB y Firebase.**
-- **Optimización de queries para alto rendimiento en sistemas de producción.**
-- **Principio ACID y transacciónes**
+### 👨‍💻 Sobre mí
 
-## 📬 Contáctame
-- ✉️ Email: [rubdeveloper476@gmail.com](mailto:rubdeveloper476@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rubdev476](https://www.linkedin.com/in/rubdev476/)  
+Soy un desarrollador Full Stack con más de **4 años de experiencia** diseñando e implementando aplicaciones web de extremo a extremo.
+
+* **Frontend:** Certificado profesionalmente por **Meta en React**. Especializado en interfaces dinámicas, optimizadas para rendimiento (Lighthouse), accesibilidad y SEO utilizando **React**, **Next.js** y **TypeScript**.
+* **Backend:** Desarrollo de servicios robustos y escalables con **NestJS**, **Node.js** y **Java Spring Boot**, implementando autenticación segura (OAuth 2.0, JWT), arquitectura limpia y principios **SOLID**.
+* **Bases de Datos:** Modelado relacional y no relacional con **SQL Server**, **MySQL** y **MongoDB**, optimización de consultas complejas, procedimientos almacenados y transacciones bajo principios **ACID**.
+* **Desarrollo Acelerado con IA (Google Antigravity):** Incorporación activa de agentes autónomos y herramientas de inteligencia artificial en el flujo de trabajo para optimizar la arquitectura, refactorización de código y cobertura de pruebas.
+
+---
+
+### 💻 🚀 Proyectos Destacados
+
+* **Good Recipes** | [Repositorio](https://github.com/RubDev476/Good-recipes) • [Demo en vivo](https://good-recipes-vert.vercel.app/)  
+  *Plataforma interactiva de recetas con filtrado dinámico y búsqueda en tiempo real.*  
+
+* **Group-4** | [Repositorio](https://github.com/RubDev476/Group-4) • [Demo en vivo](https://group-4-rho.vercel.app/)  
+  *Comunidad y red social con hilos de conversación, votación y actualización de contenido dinámico.*  
+
+* **Next Ride** | [Repositorio](https://github.com/RubDev476/RE-Cars) • [Demo en vivo](https://re-cars.vercel.app/)  
+  *Catálogo y portal interactivo para la comercialización de vehículos seminuevos con filtros avanzados.*  
+
+* **Next Ride (API Backend)** | [Repositorio](https://github.com/RubDev476/NextRide-API)  
+  *API RESTful para catálogo de autos para sitio web de venta de autos.*  
+
+* **G-Servicios** | [Repositorio](https://github.com/RubDev476/General-services) • [Demo en vivo](https://g-services.vercel.app/)  
+  *Directorio de servicios generales con cotización y vinculación de proveedores.*  
+---
+
+### 🛠️ Habilidades Técnicas
+
+#### 🤖 Inteligencia Artificial & Flujos Agénticos
+* **Google Antigravity:** Desarrollo asistido por agentes autónomos, orquestación de subagentes para tareas complejas de refactorización, scaffolding inteligente de módulos y aceleración del ciclo de vida del software.
+* **Herramientas de IA:** Microsoft Copilot, ingeniería de contexto, generación automatizada de pruebas y análisis estático de código asistido por LLMs.
+
+#### 🎨 Frontend
+* **Core:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5 Semántico.
+* **Gestión de Estado:** Redux Toolkit, Context API, Zustand, Custom Hooks.
+* **Estilos & UI:** Tailwind CSS, Sass, Styled Components, Bootstrap, Material UI, Figma (maquetado y mockups).
+* **Calidad & Rendimiento:** Mobile First, Core Web Vitals, Lighthouse, Accesibilidad Web.
+
+#### ⚙️ Backend & APIs
+* **Lenguajes & Frameworks:** JavaScript/TypeScript (Node.js, NestJS, Express), Java (Spring Boot, Spring Security, Spring Web).
+* **Persistencia & ORM:** JPA, Hibernate, JDBC, Lombok, TypeORM.
+* **Seguridad & Arquitectura:** RESTful APIs, Autenticación JWT, OAuth 2.0, DTOs, Patrón MVC, Microservicios.
+* **Documentación & Nube:** Swagger, Postman, Cloudinary, Firebase Storage.
+
+#### 🗄️ Bases de Datos
+* **Relacionales & NoSQL:** SQL Server, MySQL, MongoDB, Firebase Firestore.
+* **Modelado & Rendimiento:** Diseño y normalización de esquemas, Joins, CTEs, subqueries, Stored Procedures, Views y transacciones con principios ACID.
+
+#### 🧪 Testing & Calidad de Código
+* **Pruebas:** Jest, React Testing Library, Vitest, JUnit, Mockito.
+* **Estándares:** Principios SOLID, Clean Code, POO, DRY, KISS.
+
+#### 🔧 Herramientas & DevOps
+* Git, GitHub, Docker, VS Code, IntelliJ IDEA, WebStorm.
+
+---
+
+### 📜 Certificaciones
+
+* **Meta Certified React Developer** — Meta Professional Certificate
+
+---
+
+### 📬 Contacto
+
+* **LinkedIn:** [linkedin.com/in/rubdev476](https://www.linkedin.com/in/rubdev476/)
+* **Email:** [rubdeveloper476@gmail.com](mailto:rubdeveloper476@gmail.com)
+* **GitHub:** [github.com/RubDev476](https://github.com/RubDev476)
