@@ -41,8 +41,8 @@ Soy un desarrollador Full Stack con más de **4 años de experiencia** diseñand
 * **Next Ride (API Backend)** | [Repositorio](https://github.com/RubDev476/NextRide-API)  
   *API RESTful para catálogo de autos para sitio web de venta de autos.*  
 
-* **G-Servicios** | [Repositorio](https://github.com/RubDev476/General-services) • [Demo en vivo](https://g-services.vercel.app/)  
-  *Directorio de servicios generales con cotización y vinculación de proveedores.*  
+* **Next Loot** | [Repositorio](https://github.com/RubDev476/General-services) • [Demo en vivo](https://g-services.vercel.app/)  
+  *Hardware y gaming, marketplace para vender o comprar componentes de gaming o pc.*  
 ---
 
 ### 🛠️ Habilidades Técnicas
