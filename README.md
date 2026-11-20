@@ -32,7 +32,7 @@ Soy un desarrollador Full Stack con más de **4 años de experiencia** diseñand
 * **Good Recipes** | [Repositorio](https://github.com/RubDev476/Good-recipes) • [Demo en vivo](https://good-recipes-vert.vercel.app/)  
   *Plataforma interactiva de recetas con filtrado dinámico y búsqueda en tiempo real.*  
 
-* **Group-4** | [Repositorio](https://github.com/RubDev476/Group-4) • [Demo en vivo](https://group-4-rho.vercel.app/)  
+* **myfeed** | [Repositorio](https://github.com/RubDev476/Group-4) • [Demo en vivo](https://group-4-rho.vercel.app/)  
   *Comunidad y red social con hilos de conversación, votación y actualización de contenido dinámico.*  
 
 * **Next Ride** | [Repositorio](https://github.com/RubDev476/RE-Cars) • [Demo en vivo](https://re-cars.vercel.app/)  
